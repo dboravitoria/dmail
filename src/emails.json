@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "from": "maria.silva@email.com",
+    "subject": "Reunião agendada",
+    "body": "Confirmando nossa reunião para amanhã às 10h.",
+    "createdAt": "2025-05-31T09:00:00Z"
+  },
+  {
+    "id": 2,
+    "from": "lucas.pereira@email.com",
+    "subject": "Atualização do projeto",
+    "body": "Segue anexo o relatório atualizado do projeto.",
+    "createdAt": "2025-05-30T15:45:00Z"
+  },
+  {
+    "id": 3,
+    "from": "rh@empresa.com",
+    "subject": "Benefícios 2025",
+    "body": "Confira os novos benefícios disponíveis para você!",
+    "createdAt": "2025-05-30T08:20:00Z"
+  },
+  {
+    "id": 4,
+    "from": "news@tecnologiahoje.com",
+    "subject": "As principais tendências de 2025",
+    "body": "Descubra as tecnologias que vão dominar o mercado.",
+    "createdAt": "2025-05-29T18:00:00Z"
+  },
+  {
+    "id": 5,
+    "from": "joana.lima@email.com",
+    "subject": "Convite para o evento",
+    "body": "Gostaria de convidar você para o nosso evento exclusivo.",
+    "createdAt": "2025-05-29T13:10:00Z"
+  },
+  {
+    "id": 6,
+    "from": "marketing@lojavirtual.com",
+    "subject": "Cupom exclusivo pra você!",
+    "body": "Aproveite 30% de desconto com o cupom: OFERTA30",
+    "createdAt": "2025-05-28T20:40:00Z"
+  },
+  {
+    "id": 7,
+    "from": "support@aplicativo.com",
+    "subject": "Atualização disponível",
+    "body": "A versão 2.3.1 já está disponível para download.",
+    "createdAt": "2025-05-28T09:15:00Z"
+  },
+  {
+    "id": 8,
+    "from": "pedro.alves@email.com",
+    "subject": "Parabéns pela conquista!",
+    "body": "Você merece todo o reconhecimento. Parabéns!",
+    "createdAt": "2025-05-27T17:25:00Z"
+  },
+  {
+    "id": 9,
+    "from": "contato@eventosdigitais.com",
+    "subject": "Inscrição confirmada",
+    "body": "Sua inscrição foi confirmada com sucesso. Até lá!",
+    "createdAt": "2025-05-27T12:00:00Z"
+  },
+  {
+    "id": 10,
+    "from": "newsletter@livrosonline.com",
+    "subject": "Top 10 livros do mês",
+    "body": "Confira as leituras mais recomendadas pelos leitores.",
+    "createdAt": "2025-05-26T11:35:00Z"
+  },
+  {
+    "id": 11,
+    "from": "ana.costa@email.com",
+    "subject": "Vamos marcar um café?",
+    "body": "Tem um tempo essa semana? Queria colocar o papo em dia.",
+    "createdAt": "2025-05-25T10:20:00Z"
+  },
+  {
+    "id": 12,
+    "from": "noreply@sistema.com",
+    "subject": "Verificação de login",
+    "body": "Detectamos um novo login. Caso não tenha sido você, altere sua senha.",
+    "createdAt": "2025-05-25T06:30:00Z"
+  },
+  {
+    "id": 13,
+    "from": "carla.souza@email.com",
+    "subject": "Arquivo solicitado",
+    "body": "Segue o documento que você pediu na última reunião.",
+    "createdAt": "2025-05-24T14:50:00Z"
+  },
+  {
+    "id": 14,
+    "from": "promo@viajemais.com",
+    "subject": "Passagens com até 50% OFF",
+    "body": "Garanta sua viagem dos sonhos agora com desconto.",
+    "createdAt": "2025-05-23T08:10:00Z"
+  },
+   {
+    "id": 15,
+    "from": "financeiro@meubanco.com",
+    "subject": "Fatura disponível",
+    "body": "Sua fatura de junho já está disponível para consulta.",
+    "createdAt": "2025-05-22T09:00:00Z"
+  },
+  {
+    "id": 16,
+    "from": "delivery@fastfood.com",
+    "subject": "Seu pedido está a caminho",
+    "body": "O entregador já está a caminho com seu pedido #45782.",
+    "createdAt": "2025-05-21T18:30:00Z"
+  },
+  {
+    "id": 17,
+    "from": "plataforma@eadonline.com",
+    "subject": "Nova aula liberada!",
+    "body": "A aula 5 do módulo React já está disponível para você.",
+    "createdAt": "2025-05-21T10:45:00Z"
+  },
+  {
+    "id": 18,
+    "from": "time@suporte.tech",
+    "subject": "Estamos aqui para ajudar",
+    "body": "Recebemos seu chamado e estamos trabalhando na solução.",
+    "createdAt": "2025-05-20T14:15:00Z"
+  },
+  {
+    "id": 19,
+    "from": "bruno.martins@email.com",
+    "subject": "Anexos da apresentação",
+    "body": "Segue em anexo os slides que combinamos na call.",
+    "createdAt": "2025-05-20T08:00:00Z"
+  },
+  {
+    "id": 20,
+    "from": "ofertas@eletronicoshoje.com",
+    "subject": "Descontos imperdíveis só hoje!",
+    "body": "Celulares, fones e TVs com até 60% de desconto.",
+    "createdAt": "2025-05-19T16:40:00Z"
+  }
+]
